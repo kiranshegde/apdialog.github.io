@@ -1,0 +1,1 @@
+INSERT INTO Roles (name) VALUES ('Guardian');
